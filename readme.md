@@ -7,8 +7,8 @@ An app to help you track Pokédex progress, and minimise time spent researching 
 - [ ] Cloudy auth (for cross-device access and friend management).
 - [ ] Game edition selection.
 - [ ] Starting Pokémon selection.
-- [ ] Addition of Pokémon (to lineup or box).
-- [ ] Addition of HMs and other key items.
+- [ ] Addition of Pokémon (to wishlist, lineup or box).
+- [ ] Addition of HMs and other (key) items.
 - [ ] Box management.
 - [ ] Pokédex browsing.
 - [ ] Filter Pokédex by types.
